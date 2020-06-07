@@ -1,4 +1,3 @@
-drop database bancoapirest;
 create database bancoapirest;
 use bancoapirest;
 create table users(
